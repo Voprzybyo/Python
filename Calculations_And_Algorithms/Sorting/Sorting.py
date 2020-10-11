@@ -57,5 +57,5 @@ res = check_sorting_correctness(array_of_numbers, array_of_numbers_copy)
 
 if res == 1:
     print("Correctly sorted!")
-else:
+elif res == 0:
     print("Something went wrong. Check sorting algorithm")
