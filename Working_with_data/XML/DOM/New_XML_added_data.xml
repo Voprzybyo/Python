@@ -1,0 +1,31 @@
+<?xml version="1.0" ?><team>
+	<person id="20">
+		<name>Christopher Assembler</name>
+		<age>46</age>
+		<salary>4900</salary>
+	</person>
+
+	<person id="2">
+		<name>Claude Shannon</name>
+		<age>34</age>
+		<salary>7200</salary>
+	</person>
+
+	<person id="3">
+		<name>Thomas Wayne</name>
+		<age>42</age>
+		<salary>0</salary>
+	</person>
+
+	<person id="4">
+		<name>Bjorn Pankratz</name>
+		<age>68</age>
+		<salary>10000</salary>
+	</person>
+	
+	<person id="5">
+		<name>Freddie Mercury</name>
+		<age>32</age>
+		<salary>1900</salary>
+	</person>
+</team>

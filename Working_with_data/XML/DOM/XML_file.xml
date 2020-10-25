@@ -1,0 +1,25 @@
+<team>
+	<person id = "1">
+		<name>Christopher Assembler</name>
+		<age>46</age>
+		<salary>4900</salary>
+	</person>
+
+	<person id = "2">
+		<name>Joseph JSON</name>
+		<age>34</age>
+		<salary>7200</salary>
+	</person>
+
+	<person id = "3">
+		<name>Thomas Wayne</name>
+		<age>42</age>
+		<salary>0</salary>
+	</person>
+
+	<person id = "4">
+		<name>Bjorn Pankratz</name>
+		<age>48</age>
+		<salary>10000</salary>
+	</person>
+</team>
