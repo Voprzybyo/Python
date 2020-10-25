@@ -1,0 +1,35 @@
+{
+    "SensorsReadings": [
+        {
+            "Temperature": "20.4",
+            "Humidity": "51",
+            "Time": "12:00"
+        },
+        {
+            "Temperature": "21.3",
+            "Humidity": "52",
+            "Time": "13:00"
+        },
+        {
+            "Temperature": "22.5",
+            "Humidity": "50",
+            "Time": "14:00"
+        },
+        {
+            "Temperature": "18.3",
+            "Humidity": "56",
+            "Time": "15:00"
+        },
+        {
+            "Temperature": "19.6",
+            "Humidity": "50",
+            "Time": "16:00"
+        },
+        {},
+        {
+            "Temperature": "2",
+            "Humidity": "2",
+            "Time": "2"
+        }
+    ]
+}
